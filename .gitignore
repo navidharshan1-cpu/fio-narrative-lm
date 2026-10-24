@@ -1,0 +1,6 @@
+*.zip
+2024_annual_fio*.csv
+fio_lm_model/
+ft_outputs/
+__pycache__/
+.ipynb_checkpoints/
