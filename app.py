@@ -1,6 +1,6 @@
 """
 FIO Narrative Language Model – Streamlit app
-Fine-tuning assignment · Navi Dharshan B (1716785) and partner
+Fine-tuning assignment · Navi Dharshan B (1716785)
 
 Compares DistilGPT-2 before and after fine-tuning on redacted Boston Police FIO narratives, and shows the
 hyperparameter experiments. Every generated text is synthetic and labelled as such.

@@ -1,6 +1,6 @@
 # Fine-Tuning DistilGPT-2 on Police Field-Report Narratives
 
-Fine-tuning assignment – Navi Dharshan B (1716785) and *partner*
+Fine-tuning assignment – Navi Dharshan B (1716785)
 
 A pretrained **DistilGPT-2** model is fine-tuned as a causal language model on **600 redacted Boston Police
 Field Interrogation and Observation (FIO) narratives** (2024), then five hyperparameter experiments are run, each
